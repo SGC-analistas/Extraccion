@@ -107,22 +107,22 @@ Aunque existen varios servicios que se realizan atraves de fdsnws en este caso n
 - Servidor 232:
  
 ```
-http://10.100.100.232:8091/fdsnws/dataselect/1/builder
+http://"id-232":8091/fdsnws/dataselect/1/builder
 ```
 - Servidor 222:
  
 ```
-http://10.100.100.222:8091/fdsnws/dataselect/1/builder
+http://"id-222":8091/fdsnws/dataselect/1/builder
 ```
 - Servidor 13:
  
 ```
-http://10.100.100.13:8091/fdsnws/dataselect/1/builder
+http://"id-13":8091/fdsnws/dataselect/1/builder
 ```
 - Servidor 50 (pruebas):
  
 ```
-http://10.100.100.50:8091/fdsnws/dataselect/1/builder
+http://"id-50":8091/fdsnws/dataselect/1/builder
 ```
 ### Construcciòn de consultas:
 
